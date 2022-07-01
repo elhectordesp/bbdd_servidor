@@ -2,7 +2,7 @@
 
 var mongoose = require('mongoose');
 var app = require('./app');
-var port = process.env.PORT | 3999;
+var port = process.env.PORT || 3999;
 
 // Importar variables de entorno locales
 require('dotenv').config({ path: 'variables.env'});
