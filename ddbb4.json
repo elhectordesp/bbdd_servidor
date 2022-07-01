@@ -1,0 +1,273 @@
+{"_id":{"$oid":"62a3607016f3ec7d637aac87"},"texto":"Angular","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac89"},"texto":"Angular","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac8b"},"texto":"MongoDB","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac8d"},"texto":"T","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac8f"},"texto":"MongoDB","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac91"},"texto":"mongodb","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac93"},"texto":"mongoDB","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac95"},"texto":"más de una respuesta","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac97"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac99"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac9b"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac9d"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62a3607016f3ec7d637aac9f"},"texto":"Princesa","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647c4"},"texto":"Angular","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647c6"},"texto":"Angular","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647c8"},"texto":"MongoDB","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647ca"},"texto":"T","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647cc"},"texto":"MongoDB","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647ce"},"texto":"mongodb","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647d0"},"texto":"mongoDB","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647d2"},"texto":"más de una respuesta","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647d4"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647d6"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647d8"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647da"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62a64cd26bf98fe173b647dc"},"texto":"Princesa","cuestionario":{"$oid":"62a64cd26bf98fe173b647b2"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1004"},"texto":"Angular","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1006"},"texto":"Angular","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1008"},"texto":"MongoDB","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc100a"},"texto":"T","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc100c"},"texto":"MongoDB","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc100e"},"texto":"mongodb","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1010"},"texto":"mongoDB","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1012"},"texto":"más de una respuesta","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1014"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1016"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc1018"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc101a"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62a76d075ef9ba69a7dc101c"},"texto":"Princesa","cuestionario":{"$oid":"62a76d075ef9ba69a7dc0ff2"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1045"},"texto":"Angular","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1047"},"texto":"Angular","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1049"},"texto":"MongoDB","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc104b"},"texto":"T","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc104d"},"texto":"MongoDB","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc104f"},"texto":"mongodb","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1051"},"texto":"mongoDB","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1053"},"texto":"más de una respuesta","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1055"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1057"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc1059"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc105b"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62a76e9e5ef9ba69a7dc105d"},"texto":"Princesa","cuestionario":{"$oid":"62a76e9e5ef9ba69a7dc1033"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526840"},"texto":"Angular","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526842"},"texto":"Angular","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526844"},"texto":"MongoDB","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526846"},"texto":"T","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526848"},"texto":"MongoDB","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d323752684a"},"texto":"mongodb","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d323752684c"},"texto":"mongoDB","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d323752684e"},"texto":"más de una respuesta","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526850"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526852"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526854"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526856"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62a77aa311b74d3237526858"},"texto":"Princesa","cuestionario":{"$oid":"62a77aa311b74d323752682e"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94ded8"},"texto":"Angular","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94deda"},"texto":"Angular","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94dedc"},"texto":"MongoDB","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94dede"},"texto":"T","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94dee0"},"texto":"MongoDB","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94dee2"},"texto":"mongodb","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94dee4"},"texto":"mongoDB","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94dee6"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94dee8"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94deea"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94deec"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94deee"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b467e89b582b15bd94def0"},"texto":"Princesa","cuestionario":{"$oid":"62b467e89b582b15bd94dec6"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df3c"},"texto":"Angular","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df3e"},"texto":"Angular","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df40"},"texto":"MongoDB","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df42"},"texto":"T","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df44"},"texto":"MongoDB","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df46"},"texto":"mongodb","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df48"},"texto":"mongoDB","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df4a"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df4c"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df4e"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df50"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df52"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b469309b582b15bd94df54"},"texto":"Princesa","cuestionario":{"$oid":"62b469309b582b15bd94df2a"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df7d"},"texto":"Angular","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df7f"},"texto":"Angular","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df81"},"texto":"MongoDB","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df83"},"texto":"T","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df85"},"texto":"MongoDB","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df87"},"texto":"mongodb","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df89"},"texto":"mongoDB","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df8b"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df8d"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df8f"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df91"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df93"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b469d59b582b15bd94df95"},"texto":"Princesa","cuestionario":{"$oid":"62b469d59b582b15bd94df6b"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfbe"},"texto":"Angular","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfc0"},"texto":"Angular","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfc2"},"texto":"MongoDB","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfc4"},"texto":"T","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfc6"},"texto":"MongoDB","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfc8"},"texto":"mongodb","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfca"},"texto":"mongoDB","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfcc"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfce"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfd0"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfd2"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfd4"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b46a4d9b582b15bd94dfd6"},"texto":"Princesa","cuestionario":{"$oid":"62b46a4d9b582b15bd94dfac"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94dfff"},"texto":"Angular","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e001"},"texto":"Angular","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e003"},"texto":"MongoDB","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e005"},"texto":"T","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e007"},"texto":"MongoDB","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e009"},"texto":"mongodb","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e00b"},"texto":"mongoDB","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e00d"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e00f"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e011"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e013"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e015"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b46ab79b582b15bd94e017"},"texto":"Princesa","cuestionario":{"$oid":"62b46ab79b582b15bd94dfed"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e040"},"texto":"Angular","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e042"},"texto":"Angular","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e044"},"texto":"MongoDB","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e046"},"texto":"T","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e048"},"texto":"MongoDB","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e04a"},"texto":"mongodb","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e04c"},"texto":"mongoDB","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e04e"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e050"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e052"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e054"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e056"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b46ad59b582b15bd94e058"},"texto":"Princesa","cuestionario":{"$oid":"62b46ad59b582b15bd94e02e"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e081"},"texto":"Angular","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e083"},"texto":"Angular","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e085"},"texto":"MongoDB","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e087"},"texto":"T","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e089"},"texto":"MongoDB","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e08b"},"texto":"mongodb","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e08d"},"texto":"mongoDB","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e08f"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e091"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e093"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e095"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e097"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b46b199b582b15bd94e099"},"texto":"Princesa","cuestionario":{"$oid":"62b46b199b582b15bd94e06f"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0c2"},"texto":"Angular","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0c4"},"texto":"Angular","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0c6"},"texto":"MongoDB","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0c8"},"texto":"T","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0ca"},"texto":"MongoDB","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0cc"},"texto":"mongodb","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0ce"},"texto":"mongoDB","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0d0"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0d2"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0d4"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0d6"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0d8"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b72d409b582b15bd94e0da"},"texto":"Princesa","cuestionario":{"$oid":"62b72d409b582b15bd94e0b0"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e103"},"texto":"Angular","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e105"},"texto":"Angular","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e107"},"texto":"MongoDB","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e109"},"texto":"T","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e10b"},"texto":"MongoDB","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e10d"},"texto":"mongodb","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e10f"},"texto":"mongoDB","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e111"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e113"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e115"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e117"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e119"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b72e259b582b15bd94e11b"},"texto":"Princesa","cuestionario":{"$oid":"62b72e259b582b15bd94e0f1"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e144"},"texto":"Angular","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e146"},"texto":"Angular","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e148"},"texto":"MongoDB","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e14a"},"texto":"T","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e14c"},"texto":"MongoDB","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e14e"},"texto":"mongodb","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e150"},"texto":"mongoDB","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e152"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e154"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e156"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e158"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e15a"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b72e949b582b15bd94e15c"},"texto":"Princesa","cuestionario":{"$oid":"62b72e949b582b15bd94e132"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e185"},"texto":"Angular","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e187"},"texto":"Angular","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e189"},"texto":"MongoDB","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e18b"},"texto":"T","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e18d"},"texto":"MongoDB","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e18f"},"texto":"mongodb","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e191"},"texto":"mongoDB","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e193"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e195"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e197"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e199"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e19b"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b865459b582b15bd94e19d"},"texto":"Princesa","cuestionario":{"$oid":"62b865459b582b15bd94e173"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1c6"},"texto":"Angular","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1c8"},"texto":"Angular","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1ca"},"texto":"MongoDB","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1cc"},"texto":"T","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1ce"},"texto":"MongoDB","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1d0"},"texto":"mongodb","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1d2"},"texto":"mongoDB","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1d4"},"texto":"más de una respuesta","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1d6"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1d8"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1da"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1dc"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62b895c19b582b15bd94e1de"},"texto":"Princesa","cuestionario":{"$oid":"62b895c19b582b15bd94e1b4"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e207"},"texto":"Angular","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e209"},"texto":"Angular","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e20b"},"texto":"MongoDB","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e20d"},"texto":"T","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e20f"},"texto":"MongoDB","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e211"},"texto":"mongodb","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e213"},"texto":"mongoDB","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e215"},"texto":"más de una respuesta","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e217"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e219"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e21b"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e21d"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62bb42b49b582b15bd94e21f"},"texto":"Princesa","cuestionario":{"$oid":"62bb42b49b582b15bd94e1f5"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e248"},"texto":"Angular","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e24a"},"texto":"Angular","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e24c"},"texto":"MongoDB","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e24e"},"texto":"T","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e250"},"texto":"MongoDB","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e252"},"texto":"mongodb","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e254"},"texto":"mongoDB","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e256"},"texto":"más de una respuesta","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e258"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e25a"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e25c"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e25e"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62bb46299b582b15bd94e260"},"texto":"Princesa","cuestionario":{"$oid":"62bb46299b582b15bd94e236"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e289"},"texto":"Angular","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e28b"},"texto":"Angular","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e28d"},"texto":"MongoDB","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e28f"},"texto":"T","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e291"},"texto":"MongoDB","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e293"},"texto":"mongodb","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e295"},"texto":"mongoDB","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e297"},"texto":"más de una respuesta","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e299"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e29b"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e29d"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e29f"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62bb46d09b582b15bd94e2a1"},"texto":"Princesa","cuestionario":{"$oid":"62bb46d09b582b15bd94e277"},"numPregunta":8,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2ca"},"texto":"Angular","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":1,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2cc"},"texto":"Angular","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2ce"},"texto":"MongoDB","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":2,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2d0"},"texto":"T","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":3,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2d2"},"texto":"MongoDB","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2d4"},"texto":"mongodb","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2d6"},"texto":"mongoDB","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":4,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2d8"},"texto":"más de una respuesta","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":5,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2da"},"texto":"Windows 10-\u003eSoftware","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2dc"},"texto":"Teclado-\u003eHardware","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2de"},"texto":"Silla gaming-\u003eAccesorios externos","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":6,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2e0"},"texto":"3.14159:0.0005","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":7,"__v":0}
+{"_id":{"$oid":"62bb61e99b582b15bd94e2e2"},"texto":"Princesa","cuestionario":{"$oid":"62bb61e99b582b15bd94e2b8"},"numPregunta":8,"__v":0}

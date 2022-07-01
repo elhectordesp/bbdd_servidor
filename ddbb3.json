@@ -1,0 +1,2 @@
+{"_id":{"$oid":"62b227a99b582b15bd94dec3"},"nota":"6/8","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"fecha":{"$date":"2022-06-21T20:18:49.558Z"},"__v":0}
+{"_id":{"$oid":"62b468bf9b582b15bd94df27"},"nota":"7/8","cuestionario":{"$oid":"62a3607016f3ec7d637aac75"},"fecha":{"$date":"2022-06-23T13:21:03.584Z"},"__v":0}
