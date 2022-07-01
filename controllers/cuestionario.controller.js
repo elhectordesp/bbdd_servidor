@@ -23,6 +23,7 @@ cuestionarioCtrl.crearCuestionario = (req, res) => {
 }
 
 cuestionarioCtrl.obtenerCuestionarioPorNombre = (req, res) => {
+    console.log('entramos aqui');
     Cuestionario.find({nombre: req.params.nombre}, (err, cuest) => {
         if (err) {
             res.status(500).send({message: 'Error al crear el cuestionario'});
