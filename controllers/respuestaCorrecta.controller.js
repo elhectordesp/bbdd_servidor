@@ -167,7 +167,7 @@ respuestaCorrectaCtrl.corregirPregunta = (req, res) => {
             }
           }
         }
-        console.log(buena);
+        console.log(buena, respuestasCorrectas);
 
         res.status(200).send({buena: buena, respuestasCorrectas});
       } else {
