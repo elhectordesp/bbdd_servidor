@@ -172,7 +172,7 @@ respuestaCorrectaCtrl.corregirPregunta = (req, res) => {
 
         for (let a of respuestasCorrectas) {
           
-          auxilio += respuestasCorrectas.texto.split(":")[0];
+          auxilio += respuestasCorrectas.texto;
         }
 
         res.status(200).send({buena: buena, respuestasCorrectas: auxilio});
