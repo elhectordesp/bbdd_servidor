@@ -168,8 +168,14 @@ respuestaCorrectaCtrl.corregirPregunta = (req, res) => {
           }
         }
         console.log(buena, respuestasCorrectas);
+        let auxilio = "";
 
-        res.status(200).send({buena: buena, respuestasCorrectas});
+        for (let a of respuestasCorrectas) {
+          
+          auxilio += respuestasCorrectas.texto.split(":")[0];
+        }
+
+        res.status(200).send({buena: buena, respuestasCorrectas: auxilio});
       } else {
         res.status(404).send("Respuestas not found");
       }
