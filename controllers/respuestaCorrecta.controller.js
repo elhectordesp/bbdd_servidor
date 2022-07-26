@@ -167,12 +167,12 @@ respuestaCorrectaCtrl.corregirPregunta = (req, res) => {
             }
           }
         }
-        console.log(buena, respuestasCorrectas);
+        console.log(buena, respuestasCorrectas[0].texto);
         let auxilio = "";
 
         for (let a of respuestasCorrectas) {
           
-          auxilio += respuestasCorrectas.texto.toString();
+          auxilio += respuestasCorrectas.texto;
         }
 
         res.status(200).send({buena: buena, respuestasCorrectas: auxilio});
