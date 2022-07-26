@@ -169,7 +169,7 @@ respuestaCorrectaCtrl.corregirPregunta = (req, res) => {
         }
         console.log(buena);
 
-        res.status(200).send(buena);
+        res.status(200).send({buena: buena, respuestasCorrectas});
       } else {
         res.status(404).send("Respuestas not found");
       }
